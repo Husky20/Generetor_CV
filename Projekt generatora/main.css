@@ -1,0 +1,142 @@
+body
+{
+	margin: 0 auto;
+	padding: 50px 60px;
+	background-color: rgb(57, 60, 61);
+	color: rgb(218, 169, 80);
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 17px;
+	
+}
+
+h1
+{  
+	text-align: center;
+	font-size: 35px;
+	font-weight: 400;
+	margin-bottom: 20px;
+	word-wrap:break-word; 
+	font-family: 'Verdena', sans-serif; 
+}
+
+fieldset
+{ 
+	margin: 0 auto;
+	width:300px; 
+	padding:15px; 
+	border-radius:15px; 
+	border 5:px solid white; 
+	margin-top: 20px
+}
+
+input, textarea
+{
+	border-radius:10px; 
+	border: 1px solid #787373; 
+	padding:2px 10px;
+	background-color: #21232469;
+	
+	color: #d8d6d3;
+}
+
+select
+{
+	border-radius:10px; 
+	border: 1px solid #787373; 
+	padding:2px 10px;
+	background-color: #21232469;
+}
+
+input:-internal-autofill-selected 
+{
+    background-color: #292727;
+}
+ 
+button
+{ 
+	border-radius:10px; 
+	border: 1px solid white; 
+}
+ 
+
+
+submit
+{
+	margin-top: 40px;
+	float:right; 
+	width:60px; 
+	padding:15px; 
+	border-radius:15px; 
+	border 5:px solid white; 
+	margin-right: -50px; 
+	margin-top:200px;
+}
+
+.row
+{
+	align: center;
+	text-align: left;
+}
+
+.col
+{
+	margin: 0 10px;
+}
+
+body.link
+{
+	margin: 0 auto; 
+	text-align: center; 
+	height: 55vh;
+	margin-top: 200px;
+}
+
+.conteiner
+{
+	
+	margin: 0 auto; 
+	text-align: center; 
+	width: 800px; 
+	height: 120px; 
+	border: 1px grey solid; 
+	border-radius: 5px; 
+}
+
+.l{
+	margin: 0 auto; 
+	width:550px; 
+	padding:15px; 
+	border-radius:15px; 
+	border 5:px solid white; 
+	margin-top: 20px;
+}
+
+#next, #wyczysc, #wyslij, #sub
+{
+	float:right; 
+	width:100px; 
+	padding:15px; 
+	border-radius:10px; 
+	border 5:px solid white; 
+	margin-right: 20px; margin-top:50px;
+}
+
+.button {
+  background-color: white;
+  color: black;
+  border: 2px solid #555555;
+}
+
+.button1:hover {
+  background-color: #555555;
+  color: white;
+}
+
+
+
+
+
+
+
+
+
